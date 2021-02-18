@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Meet Don, The Little Adventurer.
 
 You can use the [editor on GitHub](https://github.com/edelinetenges/ip/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
